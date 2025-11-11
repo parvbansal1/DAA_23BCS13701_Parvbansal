@@ -109,8 +109,8 @@ Minimum number of multiplications: 26000
 ## 🧑‍💻 Author
 
 **Parv Bansal**  
-📧 Email: your.email@example.com  
-💼 GitHub: [github.com/yourusername](https://github.com/Parvbansal1)
+📧 Email: parv10g21@gmail.com  
+💼 GitHub: [github.com/parvbansal1](https://github.com/parvbansal1)
 
 ---
 
